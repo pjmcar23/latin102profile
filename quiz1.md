@@ -1,3 +1,5 @@
+**Needs revisions**
+
 # Quiz 1
 
 ## Part 1: recognizing nouns
@@ -11,7 +13,7 @@ Translate prepositional phrases.
 2. in coniugium
    - n. nom. sg.
    - n. acc. sg.
-   - in: into
+   - in: into ❌ Translate prepositional **phrases**
 3. animo
    - m. dat. sg. 
    - m. abl. sg.
@@ -24,7 +26,7 @@ Translate prepositional phrases.
    - f. acc. pl.
 6. ad uxorem
    - f. acc. sg.
-   - ad: towards
+   - ad: towards ❌ Translate prepositional **phrases**
 
 ## Part 2: recognizing verbs
 
@@ -40,11 +42,10 @@ if the form is plural, convert to singular.
    - necauerunt
 3. necari
    - present passive infinitive 
-   - necare
 4. rogaretur
    - imperfect passive subjunctive 3rd sg.
    - rogarentur
-5. coepit
+5. coepit 👍
    - perfect active indicative 3rd sg.
    - coeperunt
    OR
@@ -66,12 +67,12 @@ E.g., if you were given “Hercules saw Deianira,” you could translate saw wit
 2. Centaurs *were being killed* by Hercules. (Use the perfect tense)
    - interfecti sunt
 3. Centaurs *were killed* by Hercules. (Use the perfect tense)
-   - interfecerunt
+   - interfecerunt ❌ (Could you try this one in the imperfect?)
 4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.)
-   - interfecerunt
+   - interfecerunt ❌
 5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-   - videt
+   - videt ❌
 6. Hercules *led* Deianira in marriage (i.e., he married her).
-   - ductus est
+   - ductus est ❌
 7. Hercules repeatedly *asked* Eurytus for permission to marry Iole.
-   - rogavit
+   - rogavit ❌
