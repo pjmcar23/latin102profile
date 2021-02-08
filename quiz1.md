@@ -71,8 +71,8 @@ E.g., if you were given “Hercules saw Deianira,” you could translate saw wit
 4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.)
    - interfecerunt ❌ mood: subjunctive, tense: pluperfect person: 3rd, is killed pl. or sg., passive or active?(pl. active: `interfecissent` pl. passive: `interfecti essent` sg. active: `interfecisset` sg. passive: `interfectum esset`)
 5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-   - videt ❌ 
+   - videt ❌ don't know what tense, voice or mood to use
 6. Hercules *led* Deianira in marriage (i.e., he married her).
-   - ductus est ❌
+   - ductus est ❌ don't know what tense, voice or mood to use
 7. Hercules repeatedly *asked* Eurytus for permission to marry Iole.
    - rogavit ❌ not perfect tense `rogabat`
