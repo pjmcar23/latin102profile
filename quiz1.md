@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 # Quiz 1
 
@@ -13,7 +13,7 @@ Translate prepositional phrases.
 2. in coniugium
    - n. nom. sg.
    - n. acc. sg.
-   - in: into ❌ Translate prepositional **phrases** `into marriage`
+   - in: `into marriage`
 3. animo
    - m. dat. sg. 
    - m. abl. sg.
@@ -26,7 +26,7 @@ Translate prepositional phrases.
    - f. acc. pl.
 6. ad uxorem
    - f. acc. sg.
-   - ad: towards ❌ Translate prepositional **phrases** `towards the wife`
+   - ad: `towards the wife`
 
 ## Part 2: recognizing verbs
 
@@ -66,13 +66,11 @@ E.g., if you were given “Hercules saw Deianira,” you could translate saw wit
    - interficiuntur
 2. Centaurs *were being killed* by Hercules. (Use the perfect tense)
    - interfecti sunt
-3. Centaurs *were killed* by Hercules. (Use the perfect tense)
-   - interfecerunt ❌ (Could you try this one in the imperfect?) `interficiebant`
-4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.)
-   - interfecerunt ❌ mood: subjunctive, tense: pluperfect person: 3rd, is killed pl. or sg., passive or active?(pl. active: `interfecissent` pl. passive: `interfecti essent` sg. active: `interfecisset` sg. passive: `interfectum esset`)
+3. Centaurs *were killed* by Hercules. (Use the imperfect tense)  `interficiebantur`
+4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the *circumstance*, not the *timing*, of what Hercules did.) `interfecisset`
 5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-   - videt ❌ don't know what tense, voice or mood to use
+   - vidit
 6. Hercules *led* Deianira in marriage (i.e., he married her).
-   - ductus est ❌ don't know what tense, voice or mood to use
+   - duxit
 7. Hercules repeatedly *asked* Eurytus for permission to marry Iole.
-   - rogavit ❌ not perfect tense `rogabat`
+   - `rogabat`
