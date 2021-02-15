@@ -8,7 +8,7 @@
 
 ## Vocabulary and notes
 
-- devirgino, devirginare, devirginavi, devirginatus:
+- devirgino, devirginare, devirginavi, devirginatus: to deflower
 - absum (ab + sum): “to be away, be absent” (principal parts have the same forms as sum)
 - nuptiae, nuptiarum (f.): “marriage, wedding”
 - certus, a, um: “settled, determined, fixed”
@@ -36,25 +36,31 @@ Place each clause on a separate line, indented to show its level of subordinatio
 >> `that the translation` **was** `easy`.
 
 Hercules cum in hospitium ad Dexamenum regem **uenisset** 
-eiusque filiam Deianiram **deuirginasset**, 
-**volebat** 
-eam uxorem **ducere**. 
+> eiusque filiam Deianiram **deuirginasset**, 
 
-cum Hercules **abesset**, 
+>> **volebat** 
+
+> eam uxorem **ducere**. 
+
+> cum Hercules **abesset**, 
+
 centaurus Eurytion **petit** 
-Deianiram uxorem. 
+
+> Deianiram uxorem. 
 
 > quia pater eius centaurum **timebat**, 
 
 **pollicitus est** 
+
 > se **daturum**.
 
-Tempore certo, **venit** 
-centaurus cum fratribus ad nuptias. 
+> Tempore certo,
 
-Hercules **interuenit** 
-et centaurum **interfecit**, 
-Deianiram **abduxit**.
+**venit** centaurus cum fratribus ad nuptias. 
+
+Hercules **interuenit** et centaurum **interfecit**, 
+
+> Deianiram **abduxit**.
 
 ## B. Grammatical questions
 
@@ -68,11 +74,11 @@ Write a dictionary entry (nominative singular, genitive singular, gender) for De
 
 Identify the form abesset, and explain why it is this tense and mood.
 - imperfect subjunctive active 3rd sg.
-- 
+- It is imperfect because it is repeated multiple times but has never been completed. It is subjunctive because it is based more on circumstance rather than time.
 
 Identify the form uenisset, and explain why it is this tense and mood.
 - pluperfect subjunctive active 3rd sg.
-- 
+- It is pluperfect because it is an action that occured prior to an action in the past. It is subjunctive because it is based more on circumstance than time.
 
 Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 - perfect indicative passive 3rd sg.
@@ -80,10 +86,14 @@ Identify the form pollicitus est. What dictionary form would you look under to f
 
 Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 - abl. sg.
--
+- It is used to show a separation in time.
 
 ## C. Translation
 
 Please translate the passgae into idiomatic English.
 
-When Hercules came towards the king Dexamenum 
+When Hercules came into hospitality towards the king Dexamenum and his daughter Deianira to deflower, she wished to lead as wife.
+When Hercules was away, the centaur Eurytus attacked the wife Deianira.
+Since her father feared the centaur, he promised to give her.
+Time settled, the centaur came towards marriage with his brothers.
+Hercules went and killed the centaur, leading away Deianira.
