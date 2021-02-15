@@ -86,4 +86,4 @@ Identify the form of the noun-adjective phrase tempore certo, and explain why it
 
 Please translate the passgae into idiomatic English.
 
-
+When Hercules came towards the king Dexamenum 
