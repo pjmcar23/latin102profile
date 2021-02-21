@@ -45,3 +45,4 @@ Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusat
 ## Translation
 
 Hercules, cum Oechaliam venit, rogaret Iolen uxorem ducere.
+cum eam pater Eurytus noluerit, Hercules Oechaliam cepit.
