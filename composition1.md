@@ -4,7 +4,7 @@
 
 (Based on chapter 35 of Hyginus)
 
-Heracles travelled to the city of Oechalia in Aetolia, 
+Hercules travelled to the city of Oechalia in Aetolia, 
 and asked the king, Eurytus, for permission 
 to marry his daughter, Iole. 
 When Eurytus refused, Heracles not only destroyed the city, but killed Iole’s parents before her very eyes. 
@@ -32,15 +32,15 @@ Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusat
 
 (Words in your core vocabulary list are not translated.)
 
-- omnis, omnis
-- capio, capĕre, cepi, captus
-- mitto, mittĕre, misi, missus
-- nolo, nolle, nolui, -
+- omnis, omnis: each (sg.), all (pl.)
+- capio, capĕre, cepi, captus: to seize
+- mitto, mittĕre, misi, missus: to send
+- nolo, nolle, nolui, -: to wish..not, to be unwilling
 - Oechalia, Oechaliae (f.): the city Oechalia
-- pater, patris (m.)
+- pater, patris (m.):  father
 - patior, pati, -, passus: endure, suffer; can take a noun as direct object or an indirect statement construction
-- peto, petĕre, petivi or petii, petitus
-- quia
+- peto, petĕre, petivi or petii, petitus: to attack, demand, seek
+- quia: since
 
 ## Translation
 
