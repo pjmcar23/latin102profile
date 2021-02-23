@@ -2,21 +2,36 @@
 
 ## Part 1: Understanding relative clauses
 
-Philoctetes built a pyre for Hercules, who then ascended to immortality.
+Philoctetes built a pyre for Hercules, 
+> who then ascended to immortality.
 
-Hercules hurled Lichas, who had brought the poisoned garment, into the see.
+Hercules hurled Lichas, 
+>who had brought the poisoned garment, 
 
-In Egypt, Hercules killed Busiris, who regularly sacrificed foreigners.
+into the sea.
 
-He killed the Centaur Eurytion because he wanted to marry Deianira, who was his fiancée.
+> In Egypt,
 
-He killed Eurytion, whose daughter he had asked to marry.
+Hercules killed Busiris, 
+> who regularly sacrificed foreigners.
+
+He killed the Centaur Eurytion 
+> because he wanted to marry Deianira, 
+>> who was his fiancée.
+
+He killed Eurytion,
+> whose daughter he had asked to marry.
 
 ## Part 2: Relative clauses in Latin
 
-Hercules in Aegypto Busiridem, qui hospites interficiebat, necavit.
+> **Hercules** in Aegypto Busiridem, 
 
-Hercules Licham qui uestem attulerat in mare iecit.
+**qui** hospites interficiebat,
+> necavit.
 
-Eurytum cuius filiam eius in coniugium petiuit occidit.
+**Hercules** Licham **qui** uestem attulerat 
+> in mare iecit.
+
+Eurytum **cuius** filiam **eius** 
+> in coniugium petiuit occidit.
 
