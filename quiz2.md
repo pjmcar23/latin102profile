@@ -9,7 +9,7 @@ For each verb, complete the following synopsis, and translate indicative forms a
 
 1. third plural present indicative active
    - rogant
-   - recipent
+   - recipiunt
 2. third plural present subjunctive active
    - rogent
    - recpiant
@@ -36,12 +36,12 @@ Using the verb *polliceor*, complete the following synopsis, and translate indic
 
 1. third plural present indicative passive 
    - pollicentur
-   - 
+   - He promises.
 2. third plural present subjunctive passive
    - polliceantur
 3. third plural imperfect indicative passive
    - pollicebantur
-   - 
+   - He promised.
 4. present infinitive passive
    - polliceri
 5. third plural imperfect subjunctive passive
@@ -52,28 +52,36 @@ Using the verb *polliceor*, complete the following synopsis, and translate indic
 7. perfect infinitive passive
    - polliciti esse
 8. third plural pluperfect subjunctive passive
-   - polliciti erant
+   - polliciti essent
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rd-io but not amo, habeo, capio or duco
 - rogo, rogare, rogavi, rogatus: to ask
 - recipio, recipĕre, recepi, receptus: regain, recover
 
 1. third plural present indicative passive
-   - 
+   - rogantur
+   - recipiuntur
 2. third plural present subjunctive passive
-   -
+   - rogentur
+   - recipiantur
 3. third plural imperfect indicative passive
-   -
+   - rogabantur
+   - recipiebantur
 4. present infinitive passive
-   -
+   - rogari
+   - recipi
 5. third plural imperfect subjunctive passive
-   -
+   - rogarentur
+   - reciperentur
 6. third plural perfect indicative passive
-   -
-7. perfect active passive
-   -
+   - rogati sunt
+   - recepti sunt
+7. perfect infinitive passive
+   - rogati esse
+   - recepti esse
 8. third plural pluperfect subjunctive passive
-   -
+   - rogati essent
+   - recepti essent
 
 ## Part 2: English relative clauses
 
@@ -92,7 +100,7 @@ you could make the second sentence a relative clause like this:
 > Eurytion came to the wedding with his brothers, who were violent Centaurs.
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-> Deanira was promised in marriage to Eurtion, who Dexamenus was afraid of.
+> Deanira was promised in marriage to Eurytion, who Dexamenus was afraid of.
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 > Eurytion, who's brothers were centaurs, expected to marry Deianira.
@@ -101,7 +109,7 @@ you could make the second sentence a relative clause like this:
 > Hercules killed Nessus, who tried to rape Deianira.
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-> Nessus gave Deianira a vial of blood, that poisoned Hercules.
+> Nessus gave Deianira a vial of blood, by whom Hercules was poisoned by.
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 > In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
@@ -113,7 +121,7 @@ you could make the second sentence a relative clause like this:
 > Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
->
+> Apollo refused to give Hercules, who stole a tripod from the temple at Delphi, an oracle.
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 > Juno drove threw Hercules, who killed his own wife Megara, into a fit of madness.
@@ -123,35 +131,35 @@ you could make the second sentence a relative clause like this:
 For each sentence in the previous section:
 
 1. translate the relative pronoun into Latin
-> 1.
-> 2.
-> 3.
-> 4.
-> 5.
-> 6.
-> 7.
-> 8.
-> 9.
-> 10.
+> 1. qui
+> 2. qui
+> 3. qui
+> 4. qui
+> 5. quo
+> 6. qui
+> 7. quae
+> 8. qui
+> 9. qui
+> 10. qui
 2. identify the antecedent of the pronoun, and its gender and number
-> 1.
-> 2.
-> 3.
-> 4.
-> 5.
-> 6.
-> 7.
-> 8.
-> 9.
-> 10.
+> 1. Eurytion's brothers, m. pl.
+> 2. Eurytion, m. sg.
+> 3. Eurytion, m. sg.
+> 4. Nessus, m. sg.
+> 5. The blood, m. sg.
+> 6. Busiris, m. sg.
+> 7. The eagle, f. sg.
+> 8. Lycus, m. sg.
+> 9. Hercules, m. sg.
+> 10. Hercules, m. sg.
 3. identify the case of the Latin pronoun, and explain why it is in that case
-> 1.
-> 2.
-> 3.
-> 4.
-> 5.
-> 6.
-> 7.
-> 8.
-> 9.
-> 10.
+> 1. nominative: subject of the relative clause.
+> 2. nominative: subject of the relative clause.
+> 3. nominative: subject of the relative clause.
+> 4. nominative: subject of the relative clause.
+> 5. nominative: subject of the relative clause.
+> 6. nominative: subject of the relative clause.
+> 7. ablative: being used in an ablative of agent construction within the relative clause
+> 8. nominative: subject of the relative clause.
+> 9. nominative: subject of the relative clause.
+> 10. nominative: subject of the relative clause.
