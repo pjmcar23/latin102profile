@@ -101,22 +101,22 @@ you could make the second sentence a relative clause like this:
 > Hercules killed Nessus, who tried to rape Deianira.
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-> 
+> Nessus gave Deianira a vial of blood, that poisoned Hercules.
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
->
+> In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
 
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
->
+> Hercules shot the eagle, who devoured Prometheus' heart, dead with his arrows.
 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
->
+> Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 >
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
->
+> Juno drove threw Hercules, who killed his own wife Megara, into a fit of madness.
 
 ## Part 3: Latin relative clauses
 
