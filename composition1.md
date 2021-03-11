@@ -47,40 +47,13 @@ Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusat
 
 ## Translation
 
-Hercules, cum Oechaliam venit🤔`veniret`, rogaret❌`rogavit` Iolen conjugium ducere.
-> venit: perfect indicative active 3rd sg.
->> `veniret`: inperfect subjunctive active 3rd sg.
+Hercules, cum Oechaliam `veniret`, `petivit` Iolen in conjugium ducere.
 
-> rogaret: imperfect subjunctive active 3rd sg. 
->> `rogavit`: perfect indicative active 3rd sg.
+cum `euis` pater Eurytus `nollet`, Hercules Oechaliam cepit.
 
-cum eam❌`euis` pater Eurytus noluerit❌`nollet`, Hercules Oechaliam cepit.
-> eam: acc. sg.
->> `euis`: gen. sg.
+Hercules dixit `se` `parentes` `interfecturum esse`.
 
-> noluerit: perfect subjunctive active 3rd sg.
->> `nollet`: imperfect subjunctive active 3rd sg.
+Iole `patiebatur` eam parentes `interfectos esse`.
 
-Hercules dixit eam❌`eum` parentem❌ interfecisse❌.
-> eam: feminine
->> eum: masculine
+quia Hercules interfecit eos `omnes`, is Iolen ad Deianiram `misit`.
 
-> parentem: acc. sg.
->> ?
-
-> interfecisse: perfect infinitive active
->> ?
-
-Iole pati❌t`patiebatur` eam parentem interfecti sunt.❌
-> patit: imperfect subjunctive active 3rd sg. 
->> patiebatur: imperfect indicative active 3rd sg.
-
-> interfecti sunt: perfect indicative passive 3rd sg.
->> ?
-
-quia Hercules interfecit eos omnis❌`omnes`, is Iolen ad Deianiram miserit❌`misit`.
-> omnis: nom. sg.
->> `omnes`: nom. pl.
-
-> miserit: perfect subjunctive active 3rd sg.
->> `misit`: perfect indicative active 3rd sg.
