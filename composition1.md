@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 
 # Composition 1: wives of Hercules
@@ -53,7 +53,7 @@ cum `euis` pater Eurytus `nollet`, Hercules Oechaliam cepit.
 
 Hercules dixit `se` `parentes` `interfecturum esse`.
 
-Iole `patiebatur` eam parentes `interfectos esse`.
+Iole `patiebatur` eius parentes `interfectos esse`.
 
 quia Hercules interfecit eos `omnes`, is Iolen ad Deianiram `misit`.
 
