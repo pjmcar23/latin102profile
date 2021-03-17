@@ -100,7 +100,7 @@ you could make the second sentence a relative clause like this:
 > Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-> Eurytion came to the wedding with his brothers, who were violent Centaurs.❌**You've flipped the sentences: keep sentence 1 as the main clause.** `The brothers, who cam to the wedding with Eurytion, were violent Centaurs.`
+> Eurytion came to the wedding with his brothers, who were violent Centaurs.❌**You've flipped the sentences: keep sentence 1 as the main clause.** `The brothers, who came to the wedding with Eurytion, were violent Centaurs.`
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 > Deanira was promised in marriage to Eurytion, who Dexamenus was afraid of.
