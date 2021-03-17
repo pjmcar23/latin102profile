@@ -44,11 +44,11 @@ Using the verb *polliceor*, complete the following synopsis, and translate indic
    - polliceantur
 3. third plural imperfect indicative passive
    - pollicebantur
-   - He promised.❌
+   - He promised.❌ `They promised`
 4. present infinitive passive
    - polliceri
 5. third plural imperfect subjunctive passive
-   - pollicerintur❌
+   - pollicerintur❌`pollicerentur`
 6. third plural perfect indicative passive
    - polliciti sunt
    - They promised.
@@ -106,63 +106,44 @@ you could make the second sentence a relative clause like this:
 > Deanira was promised in marriage to Eurytion, who Dexamenus was afraid of.
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
-> Eurytion, who's❌ (**who's == "who is"**) brothers were centaurs, expected to marry Deianira.
+> Eurytion, who's❌ `whose` (**who's == "who is"**) brothers were centaurs, expected to marry Deianira.
 
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
-> Hercules killed Nessus, who tried to rape Deianira.❌ **You've flipped the sentences: keep sentence 1 as the main clause.**
+> Hercules killed Nessus, who tried to rape Deianira.❌ **You've flipped the sentences: keep sentence 1 as the main clause.**`Nessus, who was killed by Hercules, tried to rape Deianira.`
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-> Nessus gave Deianira a vial of blood, by whom Hercules was poisoned by.❌ **Not English yet.**
+> Nessus gave Deianira a vial of blood, by whom Hercules was poisoned by.❌ **Not English yet.** `Nessus gave Deianira a vial of blood, that poisoned Hercules.`
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 > In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
 
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-> Hercules shot the eagle, who devoured Prometheus' heart, dead with his arrows.❌
+> Hercules shot the eagle, who devoured Prometheus' heart, dead with his arrows.❌ `Prometheus' heart was devoured by an eagle, who was shot dead with Hercules' arrows.`
 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
 > Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
-> Apollo refused to give Hercules, who stole a tripod from the temple at Delphi, an oracle.❌
+> Apollo refused to give Hercules, who stole a tripod from the temple at Delphi, an oracle.❌ `Hercules stole a tripod from the temple at Delphi, where Apollo refues to give Hercules an oracle.`
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-> Juno drove threw Hercules, who killed his own wife Megara, into a fit of madness.❌
+> Juno drove threw Hercules, who killed his own wife Megara, into a fit of madness.❌ `Hercules, whom Juno threw into a fit of madness, killed his own wife Megara.`
 
 ## Part 3: Latin relative clauses
 
 For each sentence in the previous section:
 
-1. translate the relative pronoun into Latin❌ **Find the case by the function of the pronoun in the relative clause.  They aren't all subjects.**
-> 1. qui
-> 2. qui
-> 3. qui
-> 4. qui
-> 5. quo
-> 6. qui
-> 7. quae
-> 8. qui
-> 9. qui
-> 10. qui
-2. identify the antecedent of the pronoun, and its gender and number
-> 1. Eurytion's brothers, m. pl.
-> 2. Eurytion, m. sg.
-> 3. Eurytion, m. sg.
-> 4. Nessus, m. sg.
-> 5. The blood, m. sg.
-> 6. Busiris, m. sg.
-> 7. The eagle, f. sg.
-> 8. Lycus, m. sg.
-> 9. Hercules, m. sg.
-> 10. Hercules, m. sg.
-3. identify the case of the Latin pronoun, and explain why it is in that case❌ 
-> 1. nominative: subject of the relative clause.
-> 2. nominative: subject of the relative clause.
-> 3. nominative: subject of the relative clause.
-> 4. nominative: subject of the relative clause.
-> 5. nominative: subject of the relative clause.
-> 6. nominative: subject of the relative clause.
-> 7. ablative: being used in an ablative of agent construction within the relative clause
-> 8. nominative: subject of the relative clause.
-> 9. nominative: subject of the relative clause.
-> 10. nominative: subject of the relative clause.
+- translate the relative pronoun into Latin❌ **Find the case by the function of the pronoun in the relative clause.  They aren't all subjects.** `confused on this part`
+- identify the antecedent of the pronoun, and its gender and number
+- identify the case of the Latin pronoun, and explain why it is in that case❌ 
+
+1. qui, Eurytion's brothers, m. pl., nominative, subject of the relative clause.
+2. qui, Eurytion, m. sg., nominative: subject of the relative clause.
+3. qui, Eurytion, m. sg., nominative: subject of the relative clause.
+4. qui, Nessum, m. sg., nominative: subject of the relative clause.
+5. quo, the blood, m. sg., nominative: subject of the relative clause.
+6. qui, Busiris, m. sg., nominative: subject of the relative clause.
+7. quae, the eagle, f. sg., ablative: being used in an ablative of agent construction within the relative clause.
+8. qui, Lycus, m. sg., nominative: subject of the relative clause.
+9. qui, Hercules, m. sg., nominative: subject of the relative clause.
+10. qui, Hercules, m. sg., nominative: subject of the relative clause.
