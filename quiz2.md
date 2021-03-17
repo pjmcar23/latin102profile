@@ -100,7 +100,7 @@ you could make the second sentence a relative clause like this:
 > Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-> Eurytion came to the wedding with his brothers, who were violent Centaurs.❌**You've flipped the sentences: keep sentence 1 as the main clause.**
+> Eurytion came to the wedding with his brothers, who were violent Centaurs.❌**You've flipped the sentences: keep sentence 1 as the main clause.** `The brothers, who cam to the wedding with Eurytion, were violent Centaurs.`
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 > Deanira was promised in marriage to Eurytion, who Dexamenus was afraid of.
@@ -109,10 +109,10 @@ you could make the second sentence a relative clause like this:
 > Eurytion, who's❌ `whose` (**who's == "who is"**) brothers were centaurs, expected to marry Deianira.
 
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
-> Hercules killed Nessus, who tried to rape Deianira.❌ **You've flipped the sentences: keep sentence 1 as the main clause.**`Nessus, who was killed by Hercules, tried to rape Deianira.`
+> Hercules killed Nessus, who tried to rape Deianira.❌ **You've flipped the sentences: keep sentence 1 as the main clause.** `Nessus, who was killed by Hercules, tried to rape Deianira.`
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-> Nessus gave Deianira a vial of blood, by whom Hercules was poisoned by.❌ **Not English yet.** `Nessus gave Deianira a vial of blood, that poisoned Hercules.`
+> Nessus gave Deianira a vial of blood, by whom Hercules was poisoned by.❌ **Not English yet.** `Nessus gave Deianira a vial of blood, which Hercules was poisoned by.`
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 > In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
@@ -141,9 +141,9 @@ For each sentence in the previous section:
 2. qui, Eurytion, m. sg., nominative: subject of the relative clause.
 3. qui, Eurytion, m. sg., nominative: subject of the relative clause.
 4. qui, Nessum, m. sg., nominative: subject of the relative clause.
-5. quo, the blood, m. sg., nominative: subject of the relative clause.
+5. qui, the blood, m. sg., nominative: subject of the relative clause.
 6. qui, Busiris, m. sg., nominative: subject of the relative clause.
-7. quae, the eagle, f. sg., ablative: being used in an ablative of agent construction within the relative clause.
+7. quae, the eagle, f. sg., ablative: being used in an ablative of agent construction within the relative clause. `quam, the eagle, f. sg., accusative direct object of the direct impact`
 8. qui, Lycus, m. sg., nominative: subject of the relative clause.
-9. qui, Hercules, m. sg., nominative: subject of the relative clause.
-10. qui, Hercules, m. sg., nominative: subject of the relative clause.
+9. qui, Hercules, m. sg., nominative: subject of the relative clause. `quem, Hercules, m. sg., accusative: direct object of the direct impact`
+10. qui, Hercules, m. sg., nominative: subject of the relative clause. `quem, Hercules, m. sg., accusative: direct object of the direct impact`
