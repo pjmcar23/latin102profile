@@ -45,47 +45,47 @@ Deianira,
 
 flumen magnum, 
 
-> cui nomen Evenus erat,
+> cui nomen Evenus *erat*,
 
-non poterat transire, et centaurum Nessum, 
+*non poterat* *transire*, et centaurum Nessum, 
 
-> qui filius Ixionis et Nubis erat, 
+> qui filius Ixionis et Nubis *erat*, 
 
-auxilium rogavit.
+auxilium *rogavit*.
 
 > Hic
 
-Deianiram sublatam 
+Deianiram *sublatam* 
 
 > in flumine 
 
-ipso uiolare uoluit. 
+ipso uiolare *uoluit*. 
 
 > huc 
 
-Hercules cum interuenisset et
+Hercules cum *interuenisset* et
 
-> Deianira cum fidem eius implorasset, 
+> Deianira cum fidem eius *implorasset*, 
 
-Nessum sagittis confixit.
+Nessum sagittis *confixit*.
 
 ille 
 
-> moriens, 
+> *moriens*, 
 
-> cum sciret 
+> cum *sciret* 
 
->> sagittas Hydrae Lernaeae felle tinctas magnam vim habere, 
+>> sagittas Hydrae Lernaeae felle tinctas magnam vim *habere*, 
 
 sanguinem suum 
 
 >> exceptum 
 
-Deianirae dedit et 
+Deianirae *dedit* et 
 
-> id philtrum esse 
+> id *philtrum esse* 
 
-dixit.
+*dixit*.
 
 - Italicize the verb of each unit by surrounding it with asterisks.
 
@@ -95,22 +95,23 @@ dixit.
    - Dative. It is in the dative case because 
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
-   - 
-   - 
+   - present, active, indicative, 3rd, sg.
+   - It is explaining an action the could not be accomplished by Deianira.
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense, voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
-   - 
+   -
+   - urn:cite2:hmt:ls.markdown:n17964
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
    - f. dat. pl.
-   - 
+   - The arrow is being stabbed into Nessus by Hercules, so the arrow receives the direct impact by Hercules. Therefore in an indirect way.
 
 5. Identify the form of moriens.
-   -
+   - 
 
 6. Identify felle. Why does Hyginus use this case?
    - n. abl. sg.
-   - 
+   - It shows relation to a past action completed by Hercules.
 
 7. Identify the form of tinctas.
    - f. acc. pl. perfect passive
@@ -120,6 +121,7 @@ dixit.
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
    -
+   
 ## C. Translation
 
 Deianira, the wife of Hercules, was unable to cross the large river, whose name was Evenus, and asked the centaur Nessum, whose sons were Ixionis and Nubis, for help.
