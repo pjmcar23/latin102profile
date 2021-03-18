@@ -138,13 +138,13 @@ For each sentence in the previous section:
 - identify the antecedent of the pronoun, and its gender and number
 - identify the case of the Latin pronoun, and explain why it is in that case❌ 
 
-1. qui, Eurytion's brothers, m. pl., nominative, subject of the relative clause.
-2. qui, Eurytion, m. sg., nominative: subject of the relative clause.
-3. qui, Eurytion, m. sg., nominative: subject of the relative clause.
-4. qui, Nessum, m. sg., nominative: subject of the relative clause.
-5. qui, the blood, m. sg., nominative: subject of the relative clause.
+1. qui, Eurytion's brothers, m. pl., nominative, subject of the relative clause. `cum quibus, Eurytion's brothers, m. pl., ablative with a preposition: cum (with) is coupled with an ablative.`
+2. qui, Eurytion, m. sg., nominative: subject of the relative clause. `cui, Eurytion, m. sg., dative: the indirect object of the direct impact.`
+3. qui, Eurytion, m. sg., nominative: subject of the relative clause. `cuius, Eurytion, m. sg., genitive: used to show possession.`
+4. qui, Nessum, m. sg., nominative: subject of the relative clause. `quem, Nessum, m. sg., accusative: the direct object of the direct impact.`
+5. qui, the blood, m. sg., nominative: subject of the relative clause. `quo, the blood, m. sg., ablative:`
 6. qui, Busiris, m. sg., nominative: subject of the relative clause.
 7. quae, the eagle, f. sg., ablative: being used in an ablative of agent construction within the relative clause. `quam, the eagle, f. sg., accusative direct object of the direct impact`
 8. qui, Lycus, m. sg., nominative: subject of the relative clause.
-9. qui, Hercules, m. sg., nominative: subject of the relative clause. `quem, Hercules, m. sg., accusative: direct object of the direct impact`
-10. qui, Hercules, m. sg., nominative: subject of the relative clause. `quem, Hercules, m. sg., accusative: direct object of the direct impact`
+9. qui, Hercules, m. sg., nominative: subject of the relative clause. `cui, Hercules, m. sg., dative: the indirect object of the direct impact.`
+10. qui, Hercules, m. sg., nominative: subject of the relative clause. `quem, Hercules, m. sg., accusative: direct object of the direct impact.`
