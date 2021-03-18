@@ -103,7 +103,8 @@ you could make the second sentence a relative clause like this:
 `The brothers, with whom Eurytion came to the wedding , were violent Centaurs.`
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-> Deanira was promised in marriage to Eurytion, who Dexamenus was afraid of.
+Dexamenus was afraid of Eurytion to whom Deanira was promised in marriage.
+
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
 > Eurytion, `whose`  brothers were centaurs, expected to marry Deianira.
