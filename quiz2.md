@@ -44,11 +44,11 @@ Using the verb *polliceor*, complete the following synopsis, and translate indic
    - polliceantur
 3. third plural imperfect indicative passive
    - pollicebantur
-   - He promised.❌ `They promised`
+   - `They promised`
 4. present infinitive passive
    - polliceri
 5. third plural imperfect subjunctive passive
-   - pollicerintur❌`pollicerentur`
+   - `pollicerentur`
 6. third plural perfect indicative passive
    - polliciti sunt
    - They promised.
@@ -100,31 +100,31 @@ you could make the second sentence a relative clause like this:
 > Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-> Eurytion came to the wedding with his brothers, who were violent Centaurs.❌**You've flipped the sentences: keep sentence 1 as the main clause.** `The brothers, who came to the wedding with Eurytion, were violent Centaurs.`
+`The brothers, with whom Eurytion came to the wedding , were violent Centaurs.`
 
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 > Deanira was promised in marriage to Eurytion, who Dexamenus was afraid of.
 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
-> Eurytion, who's❌ `whose` (**who's == "who is"**) brothers were centaurs, expected to marry Deianira.
+> Eurytion, `whose`  brothers were centaurs, expected to marry Deianira.
 
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
-> Hercules killed Nessus, who tried to rape Deianira.❌ **You've flipped the sentences: keep sentence 1 as the main clause.** `Nessus, who was killed by Hercules, tried to rape Deianira.`
+> Hercules killed Nessus, who tried to rape Deianira. `Nessus, who  Hercules killed, tried to rape Deianira.`
 
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-> Nessus gave Deianira a vial of blood, by whom Hercules was poisoned by.❌ **Not English yet.** `Nessus gave Deianira a vial of blood, which Hercules was poisoned by.`
+> Nessus gave Deianira a vial of blood, which Hercules was poisoned by.
 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 > In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
 
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-> Hercules shot the eagle, who devoured Prometheus' heart, dead with his arrows.❌ `Prometheus' heart was devoured by an eagle, who was shot dead with Hercules' arrows.`
+ `Prometheus' heart was devoured by an eagle, who  Hercules shot dead with his arrows.`
 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
 > Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 
-9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
-> Apollo refused to give Hercules, who stole a tripod from the temple at Delphi, an oracle.❌ `Hercules stole a tripod from the temple at Delphi, where Apollo refues to give Hercules an oracle.`
+9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle. Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi
+
 
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
 > Juno drove threw Hercules, who killed his own wife Megara, into a fit of madness.❌ `Hercules, whom Juno threw into a fit of madness, killed his own wife Megara.`
