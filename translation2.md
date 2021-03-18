@@ -126,4 +126,4 @@ Deianirae *dedit* et
 
 Deianira, the wife of Hercules, was unable to cross the large river, whose name was Evenus, and asked the centaur Nessum, whose sons were Ixionis and Nubis, for help.
 Here, he elevated Deianira, in the river, and wished to rape her.
-Hither, when Hercules intervened and, when Deianira begged with tears for his help, pierced Nessum with an arrow.
+Here, when Hercules intervened and, when Deianira begged with tears for his help, pierced Nessum with an arrow.
