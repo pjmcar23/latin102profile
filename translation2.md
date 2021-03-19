@@ -75,13 +75,19 @@ ille
 
 > cum *sciret* 
 
->> sagittas Hydrae Lernaeae felle tinctas magnam vim *habere*, 
+>> sagittas 
+ 
+>>> Hydrae Lernaeae felle tinctas
+ 
+>> magnam vim *habere*, 
 
 sanguinem suum 
 
 >> exceptum 
 
-Deianirae *dedit* et 
+Deianirae *dedit* 
+
+et 
 
 > id *philtrum esse* 
 
@@ -99,7 +105,7 @@ Deianirae *dedit* et
    - It is explaining an action the could not be accomplished by Deianira.
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense, voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
-   -
+   - feminine, accusative, singular, perfect, passive
    - urn:cite2:hmt:ls.markdown:n17964
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
@@ -107,7 +113,7 @@ Deianirae *dedit* et
    - The arrow is being stabbed into Nessus by Hercules, so the arrow receives the direct impact by Hercules. Therefore in an indirect way.
 
 5. Identify the form of moriens.
-   - 
+   - neuter, nominative, singular, present, active
 
 6. Identify felle. Why does Hyginus use this case?
    - n. abl. sg.
@@ -117,10 +123,11 @@ Deianirae *dedit* et
    - f. acc. pl. perfect passive
 
 8. Identify the form of exceptum.
-   -
+   - neuter, nominative, signular,/ perfect, passive
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
-   -
+   - moriens
+   - morientis
    
 ## C. Translation
 
