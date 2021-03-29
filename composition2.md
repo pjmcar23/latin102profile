@@ -33,3 +33,8 @@ In addition to your required vocabulary, consult the vocabulary notes from previ
 - flammo, flammare, flammavi, flammatus “flame, burn”
 
 ## Translation
+cum Deianira, filia Oenei et uxor Herculis, pulchram virginem Iolen tradita est, ea coepit consilium machinaretur ea conjugem ne amitteretur.
+ipsa misit ea famulum Herculi vestem proceavit, sanguis centauri Nessi tinxit, quod ipsa amor partis putata esse.
+Hercules vestem posuit et statim ipsum in flammarentur.
+Hercules famulum objecit, quem Deianira missa est ab veste referret, in mare.
+id dixisse Hercules immortaliti oriens, sed Deianira se interfecit ob hanc.
