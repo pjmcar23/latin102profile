@@ -39,7 +39,7 @@ For each word in the following phrases, list the forms the dictionary entry give
    
 6. cornibus aureis
    - cornu, cornus (n.)
-   - aureus,aurea, aureum
+   - aureus, aurea, aureum
    
 7. carne humana
    - caro, carnis (f.)
@@ -58,79 +58,80 @@ For each word in the following phrases, list the forms the dictionary entry give
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
 1. transierat
-   -
+   - transeo, transire, transivi(ii), transitus
    
 2. afflabat
-   -
+   - afflo, afflare, afflavi, afflatus
    
 3. moriebatur
-   -
+   - morior, mori, -, mortuus sum
    
 4. exinteravit
-   -
+   - exintereo, exinterire, exinterivi(ii), exinteritus
    
 5. effugiebat
-   -
+   - effugio, effugere, effugi, effugitus
    
 6. adduxit
-   -
+   - adduco, adducere, adduxi, adductus
    
 7. iaculabantur
-   -
+   - jaculor, jaculari, -, jaculatus sum
    
 8. vescebantur
-   -
+   - vescor, vesci, -
    
 9. detraxit
-   -
+   - detraho, detrahere, detraxi, detractus
    
 10. solitus erat
-   -
+   - soleo, solere, -, solitus sum
    
 11. attulit
-   -
+   - affero, affere, attuli, allatus
    
 ## Dictionary skills, 3: proper nouns and adjectives
 
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 1. Luna (nominative)
-   -
+   - Luna, Lunae (f.)
    
 2. Minerva (nominative)
-   -
+   - Minerva, Minervae (f.)
    
 3. in Phrygia
-   -
+   - Phruges, Phrugum (m.)
    
 4. ex Creta
-   -
+   - Creta, Cretae (f.)
    
 5. Thraciae rex
-   -
+   - Thracia, Thraciae (f.)
    
 6. cum Abdero
-   -
+   - Abdera, Abderorum (n.)
+   - Abdera, Abderae (f.)
    
 7. Eurystheo regi
-   -
+   - Eurystheus, Eurysthei (m.)
    
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 1. Leonem Nemeum
-   -
+   - Nemaeus, Nemaea, Nemeum
    
 2. Hydram Lernaeam
-   -
+   - Lernaeus, Lernaea, Lernaeum
    
 3. aprum Erymanthium
-   -
+   - Erymanthius, Erymanthia, Eurymantium
    
 4. aves Stymphalides
-   -
+   - Stymphalius, Stymphalia, Stymphalium
    
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
-   -
+   - Amazonus, Amazona, Amazonam
    
 ## Comparative and superlative forms
 
@@ -145,30 +146,30 @@ a third-declension noun:
 
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
-1. The Hydra killed passers by with a great blowing of his poisonous breath.
-   -
+1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
+   - in magno afflatu
    
-2. The Hydra killed passers by with a greater blowing of his poisonous breath.
-   -
+2. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
+   - cum maiori afflatu
    
-3. The Hydra killed passers by with the greatest blowing of his poisonous breath.
-   -
+3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
+   - cum maximo afflatu
    
-4. The victims died in great torment.
-   -
+4. The victims died *in great torment*.
+   -in magno cruciatu
    
-5. The victims died in greater torment.
-   -
+5. The victims died *in greater torment*.
+   - in maiori cruciatu
    
-6. The victims died in the greatest torment.
-   -
+6. The victims died *in the greatest torment*.
+   - in maximo cruciatu
    
-7. Hercules cleaned a great part of the stables.
-   -
+7. Hercules cleaned *a great part* of the stables.
+   - magno paro
    
-8. Hercules cleaned a greater part of the stables.
-   -
+8. Hercules cleaned *a greater part* of the stables.
+   - maiori paro
    
-9. Hercules cleaned the greatest part of the stables.
-   -
+9. Hercules cleaned *the greatest part* of the stables.
+   - maximo paro
    
