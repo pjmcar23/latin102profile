@@ -100,10 +100,10 @@ et
 ## B. Grammatical questions
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
    - the river, n. sg.
-   - Dative. It is in the dative case because  ❓ ❌
+   - Dative. It is in the dative case because  ❓ ❌ `it indicates the object being affected in an indirect way.`
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
-   - present, active, indicative, 3rd, sg.❌
+   - present, active, indicative, 3rd, singular❌ `present active infinitive`
    - It is explaining an action the could not be accomplished by Deianira.
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense, voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
@@ -111,11 +111,11 @@ et
    - urn:cite2:hmt:ls.markdown:n17964
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
-   - f. dat. pl.❌
+   - f. dat. pl.❌ `f. abl. pl.`
    - The arrow is being stabbed into Nessus by Hercules, so the arrow receives the direct impact by Hercules. Therefore in an indirect way.
 
 5. Identify the form of moriens.
-   - neuter,❌ nominative, singular, present, active
+   - neuter,❌ nominative, singular, present, active `masculine`
 
 6. Identify felle. Why does Hyginus use this case?
    - n. abl. sg.
@@ -125,7 +125,7 @@ et
    - f. acc. pl. perfect passive
 
 8. Identify the form of exceptum.
-   - neuter,❌ nominative, signular,/ perfect, passive
+   - neuter,❌ nominative, signular,/ perfect, passive `masculine`
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
    - moriens
@@ -134,9 +134,9 @@ et
 ## C. Translation
 
 Deianira, the wife of Hercules, was unable to cross the large river, whose name was Evenus, and asked the centaur Nessum, 
-whose sons were Ixionis and Nubis,❌ 
+whose sons were Ixionis and Nubis,❌ `who was the son of Ixonis and Nubis`
 for help.
-Here❌, he elevated Deianira, in the river, and wished to rape her.
+Here❌ `At this point`, he elevated Deianira, in the river, and wished to rape her.
 Here, when Hercules intervened and, when Deianira begged with tears for his help, pierced Nessum with an arrow.
 
-❌ **Rest of passage?**
+❌ **Rest of passage?** `As he was dying, when he understood that the arrow was soaked in the potent Hydrae Lernae bile, gave Deianira his own blood and told her it was a love potion.`
