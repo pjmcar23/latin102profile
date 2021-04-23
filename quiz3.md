@@ -18,31 +18,40 @@ For each word in the following phrases, list the forms the dictionary entry give
 ## Noun-adjective pairs (in various cases):
 
 1. uno die
-   -
+   - unus, una, unum 
+   - dies, diei (m.)
 
 2. totum stercus
-   -
+   - totus, tota, totum
+   - stercus, stercoris (n.)
 
 3. ceruum ferocem
-   -
+   - ceruus, cerui (m.)
+   - ferox, -, ferocis 
    
 4. tantam vim
-   -
+   - tantus, tanta, tantum
+   - vis, vis (f.)
    
 5. sagittas suas
-   -
+   - sagitta, sagittae (f.)
+   - suus, sua, suum
    
 6. cornibus aureis
-   -
+   - cornu, cornus (n.)
+   - aureus,aurea, aureum
    
 7. carne humana
-   -
+   - caro, carnis (f.)
+   - humanus, humana, humanum
    
 8. draconem immanem
-   -
+   - draco, draconis (m.)
+   - immanis, immane
    
 9. mala aurea
-   -
+   - malum, mali (n.)
+   - aureus, aurea, aureum
    
 ## Dictionary skills, 2: verb forms
 
