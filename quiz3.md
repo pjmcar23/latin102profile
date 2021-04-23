@@ -156,7 +156,7 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
    - cum maximo afflatu
    
 4. The victims died *in great torment*.
-   -in magno cruciatu
+   - in magno cruciatu
    
 5. The victims died *in greater torment*.
    - in maiori cruciatu
