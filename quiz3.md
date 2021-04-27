@@ -1,3 +1,5 @@
+**Needs revisions**
+
 # Quiz 3
 
 ## Review
@@ -27,7 +29,7 @@ For each word in the following phrases, list the forms the dictionary entry give
 
 3. ceruum ferocem
    - ceruus, cerui (m.)
-   - ferox, -, ferocis 
+   - ferox, ferocis 
    
 4. tantam vim
    - tantus, tanta, tantum
@@ -128,7 +130,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
    - Erymanthius, Erymanthia, Eurymantium
    
 4. aves Stymphalides
-   - Stymphalius, Stymphalia, Stymphalium
+   - Stymphalius, Stymphalia, Stymphalium❌ **Not quite: we need a form that would give a gen.sg. *Stymphalis*.**
    
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
    - Amazonus, Amazona, Amazonam
@@ -147,7 +149,7 @@ a third-declension noun:
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
-   - in magno afflatu
+   - in magno afflatu ❌**Correct formation of adjective, but no preposition needed to express instrument.**
    
 2. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
    - cum maiori afflatu
@@ -165,7 +167,7 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
    - in maximo cruciatu
    
 7. Hercules cleaned *a great part* of the stables.
-   - magno paro
+   - magno paro ❌ **Check the forms of *pars, partis* (f).**
    
 8. Hercules cleaned *a greater part* of the stables.
    - maiori paro
