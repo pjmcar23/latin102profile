@@ -100,7 +100,7 @@ et
 ## B. Grammatical questions
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
    - the river, n. sg.
-   - Dative. It is in the dative case because  ❓ ❌ `it indicates the object being affected in an indirect way.`
+   - Dative. It is in the dative case because  ❓ ❌ `it indicates the river being affected in an indirect way.`
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
    - present, active, indicative, 3rd, singular❌ `present active infinitive`
