@@ -100,7 +100,7 @@ et
 ## B. Grammatical questions
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
    - the river, n. sg.
-   - Dative. It is in the dative case because  ❓ ❌ `it indicates the river being affected in an indirect way.`
+   - Dative. It is in the dative case because  ❓ ❌ `it is representing something.`
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
    - present, active, indicative, 3rd, singular❌ `present active infinitive`
@@ -112,14 +112,14 @@ et
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
    - f. dat. pl.❌ `f. abl. pl.`
-   - The arrow is being stabbed into Nessus by Hercules, so the arrow receives the direct impact by Hercules. Therefore in an indirect way.
+   - The arrow is being stabbed into Nessus by Hercules, so the arrow receives the direct impact by Hercules. Therefore in an indirect way. `The arrows are representing the instrument Hercules used to stab Nessus.`
 
 5. Identify the form of moriens.
    - neuter,❌ nominative, singular, present, active `masculine`
 
 6. Identify felle. Why does Hyginus use this case?
    - n. abl. sg.
-   - It shows relation to a past action completed by Hercules.❌
+   - It shows relation to a past action completed by Hercules.❌ `It represents the means of the arrow.`
 
 7. Identify the form of tinctas.
    - f. acc. pl. perfect passive
