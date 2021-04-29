@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 # Translation 2: Nessus and Deianira
 
