@@ -130,7 +130,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
    - Erymanthius, Erymanthia, Eurymantium
    
 4. aves Stymphalides
-   - Stymphalius, Stymphalia, Stymphalium❌ **Not quite: we need a form that would give a gen.sg. *Stymphalis*.**
+   - `Stymphalius, Stymphalis`
    
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
    - Amazonus, Amazona, Amazonam
@@ -149,7 +149,7 @@ a third-declension noun:
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
-   - in magno afflatu ❌**Correct formation of adjective, but no preposition needed to express instrument.**
+   - `magno afflatu` 
    
 2. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
    - cum maiori afflatu
@@ -167,11 +167,11 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
    - in maximo cruciatu
    
 7. Hercules cleaned *a great part* of the stables.
-   - magno paro ❌ **Check the forms of *pars, partis* (f).**
+   - magno `pare` 
    
 8. Hercules cleaned *a greater part* of the stables.
-   - maiori paro
+   - maiori `pare`
    
 9. Hercules cleaned *the greatest part* of the stables.
-   - maximo paro
+   - maximo `pare`
    
