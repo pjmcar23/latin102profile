@@ -37,5 +37,5 @@ In addition to your required vocabulary, consult the vocabulary notes from previ
 ## Translation
 cum Deianira, filia Oenei et uxor Herculis, pulchram virginem Iolen tradita est❌, ea coepit consilium machinaretur ea conjugem ne amitteretur.
 `Deianira famulum misit ut Herculi vesem ferret, tinctam sanguine centauri Nessi, quem putabat philtrum esse et statim flammavit.`
-`Hercules famulum objecit, quem Deianira misit, ut vestem referret, in mare` 
+`Hercules famulum objecit, quem Deianira misit, ut vestem referret, in mare`. 
 id `dicitur Herculem ortum esse ad immortalitatem`, sed Deianira se interfecit ob `hoc`.
