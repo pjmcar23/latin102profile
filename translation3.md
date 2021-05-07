@@ -84,3 +84,5 @@ Italicize Latin words when citing them.
 *maiorem partem*: Hyginus uses this these words to enhance the importance of the stalls Hercules is cleaning. The word order, translated is the major part. This helps us understand how much Hercules had to clean.
 
 *Abdero famulo*: 
+
+## D. Translation
