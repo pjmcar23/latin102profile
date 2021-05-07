@@ -29,18 +29,42 @@ Hyginus, chapter 30, sections 7-9.
 - Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination.
 - Italicize the verb of each unit by surrounding it with asterisks.
 
+7.  Augeae regis stercus bobile uno die *purgavit*,
+
+    maiorem partem 
+    
+    > Iove adiutore; 
+    
+    > flumine admisso
+   
+    totum stercus *abluit*.
+
+8.  taurum 
+    
+    > cum quo Pasiphae *concubuit* 
+    
+    ex Creta insula Mycenis vivum *adduxit*.
+
+9.  Diomedem Thraciae regem et equos quattuor eius, 
+    
+    > qui carne humana *vescebantur*, 
+    
+    cum Abdero famulo *interfecit*; 
+    
+    equorum autem nomina Podargus Lampon Xanthus Dinus.
+
 ## B. Grammatical questions
 
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
-   - 
+   - Ablative
    - 
   
 2. What case is stercus, and why is it in that case?
-   - 
-   -
+   - Nominative
+   - Stercus is the subject paired with bobile.
    
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
-   -
+   - 
    
 4. Explain the construction of the verbal unit flumine admisso.
    -
@@ -57,3 +81,6 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 Discuss briefly s in 3-4 sentences.
 Italicize Latin words when citing them.
 
+*maiorem partem*: Hyginus uses this these words to enhance the importance of the stalls Hercules is cleaning. The word order, translated is the major part. This helps us understand how much Hercules had to clean.
+
+*Abdero famulo*: 
