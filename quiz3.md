@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 # Quiz 3
 
@@ -167,11 +167,11 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
    - in maximo cruciatu
    
 7. Hercules cleaned *a great part* of the stables.
-   - magno `pare` 
+   - magnam `partem` 
    
 8. Hercules cleaned *a greater part* of the stables.
-   - maiori `pare`
+   - maiorem `partem`
    
 9. Hercules cleaned *the greatest part* of the stables.
-   - maximo `pare`
+   - maximam  `partem`
    
