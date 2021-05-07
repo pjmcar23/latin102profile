@@ -57,23 +57,23 @@ Hyginus, chapter 30, sections 7-9.
 
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
    - Ablative
-   - 
+   - Ablative absolute
   
 2. What case is stercus, and why is it in that case?
    - Nominative
    - Stercus is the subject paired with bobile.
    
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
-   - 
+   - m., acc., sg., comparative
    
 4. Explain the construction of the verbal unit flumine admisso.
-   -
+   - Ablative absolute
    
 5. What are the gender, number, case, and antecedent of qui?
-   -
+   - m., pl., nom., equos
    
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-   -
+   - sum, esse, fui, futurus
    
 
 ##  C. Literary commentary
@@ -81,8 +81,11 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 Discuss briefly s in 3-4 sentences.
 Italicize Latin words when citing them.
 
-*maiorem partem*: Hyginus uses this these words to enhance the importance of the stalls Hercules is cleaning. The word order, translated is the major part. This helps us understand how much Hercules had to clean.
+*maiorem partem*: Hyginus uses these words to emphasize the size and importance of the stalls that Hercules is cleaning. The word order, translated is the major part. This helps us understand how much Hercules had to clean.
 
-*Abdero famulo*: 
+*flumine admisso*: Hyginus uses these words to add more information on how Hercules cleaned the stalls in a short amount of time.
 
 ## D. Translation
+7. In one day, he cleaned the maure and stall of King Augeas, the greater part with Juppiter's help, by letting the river in, he cleaned all of the manure.
+8. The bull, with whom Pasiphae layed with, led out of the Crete island Mycenae alive
+9. He killed King Diomedes of Thrace and his four horses, who eat human flesh, along with Abdera slaves; also, the names of the horses were Podargus, Lampon, Xanthus and Dinus. 
