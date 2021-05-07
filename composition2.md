@@ -36,7 +36,6 @@ In addition to your required vocabulary, consult the vocabulary notes from previ
 
 ## Translation
 cum Deianira, filia Oenei et uxor Herculis, pulchram virginem Iolen tradita est❌, ea coepit consilium machinaretur ea conjugem ne amitteretur.
-ipsa misit ea famulum Herculi vestem proceavit❌**We need a purpose expression of some kind here.**, sanguis❌ **What case do we need here?** centauri Nessi tinxit, quod ipsa amor partis putata esse.
-Hercules vestem posuit et statim ipsum in flammarentur.❌ **Check cases and genders of nouns and pronouns: make sure they agree**
-Hercules famulum objecit, quem Deianira missa est❌ **Again, need a purpose expression** ab veste referret, in mare.
-id dixisse❌ Hercules immortaliti oriens, sed Deianira se interfecit ob hanc.
+`Deianira famulum misit ut Herculi vesem ferret, tinctam sanguine centauri Nessi, quem putabat philtrum esse et statim flammavit.`
+`Hercules famulum objecit, quem Deianira misit, ut vestem referret, in mare` 
+id `dicitur Herculem ortum esse ad immortalitatem`, sed Deianira se interfecit ob `hoc`.
