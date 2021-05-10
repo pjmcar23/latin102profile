@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit**
 
 # Translation 3: Three labors of Hercules
 
