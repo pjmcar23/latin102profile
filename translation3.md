@@ -62,11 +62,11 @@ Hyginus, chapter 30, sections 7-9.
    - Ablative absolute
   
 2. What case is stercus, and why is it in that case?
-   - Nominative❌ **Hercules is the subject here, as your translation correctly interprets.  Look at the gender of *stercus* and see if there's another possibility for case.**
+   - `Accusative`
    - Stercus is the subject paired with bobile.
    
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
-   - m., acc., sg., comparative ❌ **On form, *maiorem* could masculine, but check what noun it is agreeing with in this passage**
+   - `f.`, acc., sg., comparative 
    
 4. Explain the construction of the verbal unit flumine admisso.
    - Ablative absolute
@@ -89,5 +89,5 @@ Italicize Latin words when citing them.
 
 ## D. Translation
 7. In one day, he cleaned the maure and stall of King Augeas, the greater part with Juppiter's help, by letting the river in, he cleaned all of the manure.
-8. The bull, with whom Pasiphae layed with, led out❌ **Not quite sure what this means?** of the Crete island Mycenae alive
+8. He led the bull, with whom Pasiphae layed with, alive from the Crete island Mycenae.
 9. He killed King Diomedes of Thrace and his four horses, who eat human flesh, along with Abdera slaves; also, the names of the horses were Podargus, Lampon, Xanthus and Dinus. 
