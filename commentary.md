@@ -12,4 +12,5 @@ You may select examples from anything you have looked at in Hyginus, from the na
 
 ### Two Choices of Syntax
 
-1. 
+1. *flumen magnum, cui nomen Evenus erat*: Hyginus deeply explains the river in the syntax. Describing how large the river is with the term *magnum* and describing the name of the river with *cui nomen Evenus erat*.
+2. *sagittas Hydrae Lernaeae felle tinctas magnum vim habere*: In this statement, Hyginus explains the means of the arrows used to kill Nessus. It really explains how the arrows were covered in the potent bile of the Hydra Lerna.
